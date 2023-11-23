@@ -1,0 +1,27 @@
+
+**Hair**
+Service Number: 1
+Service Name: Hair Color and Style
+Price: 799.00 SAR
+TAX: 15.00%
+
+1.HairColoring
+2.Hair Styling
+
+**Massage**
+Service Number: 2
+Service Name: Relaxing
+Price: 1329.00 SAR
+TAX: 15.00%
+
+3.HotStone
+4.DeepTissue
+
+**NailCare**
+Service Number: 3
+Service Name: Nail Treatement
+Price: 399.00 SAR
+TAX: 15.00%
+
+5.NailArt
+6.SpaManicure
